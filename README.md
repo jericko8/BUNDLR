@@ -16,7 +16,7 @@
 Anda dapat setting Bundlr Node Anda dalam hitungan menit menggunakan skrip otomatis di bawah ini.
 
 ```
-wget -O lukmanbundlr.sh https://raw.githubusercontent.com/lukmanc405/testnet/main/bundlr/lukmanbundlr.sh && chmod +x lukmanbundlr.sh && ./lukmanbundlr.sh
+wget -O bundlr.sh https://raw.githubusercontent.com/jericko8/BUNDLR/main/bundlr.sh && chmod +x bundlr.sh && ./bundlr.sh
 ```
 
 ### Langkah-langkah setelah Instalasi
