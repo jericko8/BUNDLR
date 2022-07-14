@@ -99,7 +99,7 @@ cd /root/validator-rust && testnet-cli join RkinCLBlY4L5GZFv8gCFcrygTyd5Xm91CzKl
 nanti akan terlihat seperti ini 
 
 
-![image](https://raw.githubusercontent.com/jericko8/BUNDLR/main/photo_2022-07-14_19-30-55.jpg?token=GHSAT0AAAAAABWSPS5C62YOWO4C5LDJKWEUYWP73OQ)
+![image](https://github.com/jericko8/BUNDLR/commit/721f25a20aa731d04465e6a5ae5ae0cb5bb3ed50)
 
 Cadangkan key Anda...
 
