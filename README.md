@@ -1,5 +1,5 @@
 
-### Testnet yang ditunggu-tunggu dari tim Bundlr telah dimulai.
+### TESTNET BUNDLR.
 ![image](https://user-images.githubusercontent.com/48665887/178899422-b914ca03-12c1-4157-868e-2b92b010ade2.png)
 
 > explorer :
