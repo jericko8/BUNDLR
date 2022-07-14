@@ -33,7 +33,7 @@ Pada new window, tandai kotak centang lagi dan klik tombol `download wallet`.
 Klik tombol Buka `Tweet Pop-up` di layar berikutnya, sebuah window akan terbuka untuk tweet, alamat dompet Anda akan tertulis di sana. Salin alamat wallet anda.
 
 
-![image]([https://raw.githubusercontent.com/jericko8/BUNDLR/main/photo_2022-07-14_19-25-59.jpg?token=GHSAT0AAAAAABWSPS5DISH7PLILS26DFNF4YWP7XNA)](https://github.com/jericko8/BUNDLR/blob/main/photo_2022-07-14_19-25-59.png)
+![image](https://github.com/jericko8/BUNDLR/blob/main/photo_2022-07-14_19-25-59.png)
 
 Buka https://bundlr.network/faucet dan tempel alamat wallet yang anda salin. Kemudian tweet dari situs ini. Kunjungi situs tersebut dan tempelkan tautan tweet yang anda kirim.
 
