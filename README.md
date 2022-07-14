@@ -33,9 +33,21 @@ Pada new window, tandai kotak centang lagi dan klik tombol `download wallet`.
 Klik tombol Buka `Tweet Pop-up` di layar berikutnya, sebuah window akan terbuka untuk tweet, alamat dompet Anda akan tertulis di sana. Salin alamat wallet anda.
 
 
+![image](https://github.com/jericko8/BUNDLR/blob/main/armve.png)
+
+### AMBIL FAUCET
+
+Buka https://bundlr.network/faucet dan tempel alamat wallet yang anda salin. 
+
+![image](https://github.com/jericko8/BUNDLR/blob/main/wallet%20address%20faucet.png)
+
+Kemudian tweet dari situs ini. 
+
 ![image](https://github.com/jericko8/BUNDLR/blob/main/photo_2022-07-14_19-25-59.png)
 
-Buka https://bundlr.network/faucet dan tempel alamat wallet yang anda salin. Kemudian tweet dari situs ini. Kunjungi situs tersebut dan tempelkan tautan tweet yang anda kirim.
+Kunjungi situs tersebut dan tempelkan tautan tweet yang anda kirim.
+
+![image](https://github.com/jericko8/BUNDLR/blob/main/url%20tweet.png)
 
 anda berhasil download dompet anda ke komputer dan menerima koin anda dari faucet.
 
@@ -96,7 +108,7 @@ cd /root/validator-rust && testnet-cli join RkinCLBlY4L5GZFv8gCFcrygTyd5Xm91CzKl
 nanti akan terlihat seperti ini 
 
 
-![image](https://github.com/jericko8/BUNDLR/commit/721f25a20aa731d04465e6a5ae5ae0cb5bb3ed50)
+![image](https://github.com/jericko8/BUNDLR/blob/main/photo_2022-07-14_19-30-55.png)
 
 Cadangkan key Anda...
 
