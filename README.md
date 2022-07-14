@@ -64,10 +64,7 @@ EOF
 
 Instalasi memakan waktu sekitar 10 menit. Oleh karena itu, disarankan untuk membuat `new screen` terlebih dahulu untuk mencegah gangguan koneksi.
 
-**Buat New Screen**
-```
-screen -R "bundlr"
-```
+
 **Jalankan docker**
 
 ```
